@@ -79,8 +79,8 @@ article ol {
     line-height: 1.4;
   }
 
-  h1 {
-    margin-top: 1.4rem;
+  article h1 {
+    margin: 1.4rem 0 0;
   }
 
   article p {
@@ -100,8 +100,8 @@ article ol {
     line-height: 1.5;
   }
 
-  h1 {
-    margin-top: 1.6rem;
+  article h1 {
+    margin: 1.6rem 0 0;
   }
 
   article p {
