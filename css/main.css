@@ -31,7 +31,7 @@ article {
   text-align: center;
 }
 
-p {
+article p {
   margin: 0 0 1.3rem;
   text-align: left;
 }
@@ -67,7 +67,7 @@ blockquote {
   color: #999;
 }
 
-ol {
+article ol {
   padding-left: 1rem;
   text-align: left;
 }
@@ -83,7 +83,7 @@ ol {
     margin-top: 1.4rem;
   }
 
-  p {
+  article p {
     margin-bottom: 1.4rem;
   }
 
@@ -97,19 +97,19 @@ ol {
 
   html {
     font-size: 120%;
-    line-height: 1.5;
+    line-height: 1.6;
   }
 
   h1 {
-    margin-top: 1.5rem;
+    margin-top: 1.6rem;
   }
 
-  p {
-    margin-bottom: 1.5rem;
+  article p {
+    margin-bottom: 1.6rem;
   }
 
   article > p:last-child {
-    padding-bottom: 1.5rem;
+    padding-bottom: 1.6rem;
   }
 
 }
@@ -118,7 +118,6 @@ ol {
 
   html {
     font-size: 130%;
-    line-height: 1.5;
   }
 
 }
